@@ -1,5 +1,7 @@
-# dio-live-dynamodb
-Repositório para o live coding do dia 30/09/2021 sobre o Amazon DynamoDB
+# Boas práticas com DynamoDB
+Projeto proposto no Bootcamp [Geração Tech Unimed-BH - Ciência de Dados](https://www.dio.me/bootcamp/geracao-tech-unimed-bh-ciencia-de-dados?ref=CG-bootcamp-unimed-bh-ciencia-de-dados) na plataforma [DIO.](https://www.dio.me/)
+
+**Instrutor:**_Cassiano Ricardo de Oliveira Peres_
 
 ### Serviço utilizado
   - Amazon DynamoDB
